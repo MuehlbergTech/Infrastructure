@@ -1,8 +1,8 @@
 using HealthChecks.UI.Client;
-using Infrastructure.Middleware;
+using Infrastructure.Core.Middleware;
 using Microsoft.AspNetCore.Diagnostics.HealthChecks;
 
-namespace Infrastructure.Extensions
+namespace Infrastructure.Core.Extensions
 {
     public static class WebApplicationExtensions
     {

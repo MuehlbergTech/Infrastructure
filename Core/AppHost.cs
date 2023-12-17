@@ -1,6 +1,6 @@
-using Infrastructure.Extensions;
+using Infrastructure.Core.Extensions;
 
-namespace Infrastructure
+namespace Infrastructure.Core
 {
     public class AppHost
     {

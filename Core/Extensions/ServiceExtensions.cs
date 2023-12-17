@@ -1,4 +1,4 @@
-namespace Infrastructure.Extensions
+namespace Infrastructure.Core.Extensions
 {
     public static class ServiceExtensions
     {

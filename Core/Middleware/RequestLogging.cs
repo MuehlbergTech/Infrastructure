@@ -1,4 +1,4 @@
-namespace Infrastructure.Middleware
+namespace Infrastructure.Core.Middleware
 {
     public class RequestLogging
     {
